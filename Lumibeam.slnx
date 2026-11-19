@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="../Lumibeam.Backend/Lumibeam.Backend.csproj" Id="b02cdbce-7c26-4aca-bb1c-30aaac29d986" />
+  <Project Path="Backend/Backend.csproj" Id="98e6d68b-14de-4758-8b9e-b525588c4dae" DisplayName="backend" />
   <Project Path="Lumibeam.Frontend.csproj" />
 </Solution>

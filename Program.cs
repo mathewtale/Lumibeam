@@ -1,4 +1,4 @@
-using Lumibeam.Components;
+using Lumibeam.Frontend.Components;
 
 namespace Lumibeam
 {
